@@ -1,2 +1,2 @@
 # Software Project-5
-learning track. HTML-CSS-JavaScript
+learning track for HTML-CSS-JavaScript
