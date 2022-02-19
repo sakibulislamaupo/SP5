@@ -1,1 +1,72 @@
+<!html_ATTRIBUTES>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>practice</title>
+<head/>
+<body>
+<h1>Trying to make a html attribute </h1>
+<a href='www.google.com'>google</a>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> width and height </title>
+</head>
+<body>
+<img src='img_girl.jpg' width='500' height='500'>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2>The alt Attribute</h2>
+<img src='img_girl.jpg' alt='girl with a white cap'>
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>style attribute</h1>
+<!13761>
+<p style='color:blue;'> My name is Sakibul Islam Aupo</p>
+<p style='color:red;'>I am a present student of<p style='color:green;'> Daffodil Internatinal University<p/>. I am such a lucky person that I have that much of opportunity.</p>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang='en-US'>
+<body>
+<h1 title='w3school'> title attribute</h1>
+<p title='from daffodil'>almost CSE engineer.</p>
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>About W3Schools</h1>
+<p title='About W3Schools'>can use both</p>
+<p><b>it totally depands on us but to become a good programmer we shoud follow some steps and rules. That would be better</b></p>
+</body>
+</html>
+
+
 
