@@ -81,3 +81,32 @@
 <p>A student of Daffodil International University.</p>
 </body>
 </html>
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<title>13761</title>
+</head>
+<body>
+<!in this case i am gonno show what happans if we use preformatted tag>
+My Bonnie lies over the ocean.
+
+  My Bonnie lies over the sea.
+
+  My Bonnie lies over the ocean.
+  
+  Oh, bring back my Bonnie to me.
+<pre>
+My Bonnie lies over the ocean.
+
+  My Bonnie lies over the sea.
+
+  My Bonnie lies over the ocean.
+  
+  Oh, bring back my Bonnie to me.
+</pre>
+</body>
+</html>
