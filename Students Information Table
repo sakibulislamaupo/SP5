@@ -1,1 +1,51 @@
-
+<!DOCTYPE html>
+<html>
+	<style>
+		table {
+			border: 1px solid black;
+ 				}
+	</style>
+  	<head>
+    	<title>Student information</title>
+  	</head>
+  	<body>
+    	<h1>A Basic Student Table</h1>
+   	 	<table style="width: 100%; font-size: 19px; padding: 15px; font-style: bold;">
+    		<colgroup>
+    		<col span="5" style="background-color:#ABB2B9">
+    		</colgroup>
+      		<tr style="background-color: #566573; color: white;">
+		<th>Name</th>
+	 	<th>ID</th>
+		<th>Email</th>
+		<th>Contact Number</th>
+		</tr>
+		<tr style="background-color: #D5D8DC">
+        <tr>
+        <td>Sakibul Islam Aupo</td>
+        <td>201-15-13761</td>
+        <td>sakibul15-13761@diu.edu.bd</td>
+        <td>123456789</td>
+      	</tr>
+        <td>Joy Das</td>
+        <td>201-15-13610</td>
+        <td>joy15-13610@diu.edu.bd</td>
+        <td>123456789</td>
+      	</tr>
+     	<tr>
+      	<tr>
+        <td>Sadia Jerin Meem</td>
+        <td>201-15-13741</td>
+        <td>sadia15-13741@diu.edu.bd</td>
+        <td>123456789</td>
+      	</tr>
+      	<tr>
+        <td>Anika Islam</td>
+        <td>201-15-13930</td>
+        <td>anika15-13930@diu.edu.bd</td>
+        <td>123456789</td>
+      	</tr>  
+      	</tr>
+    </table>
+  </body>
+</html>
