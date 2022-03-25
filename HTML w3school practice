@@ -140,4 +140,18 @@ My Bonnie lies over the ocean.
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:#fff000;">Dhaka</h1>
+<h1 style="background-color:#0000ff;">Bangladesh</h1>
+<h1 style="background-color:#3cb371;">Dubai</h1>
+<h1 style="background-color:#ee82ee;">Singapur</h1>
+<h1 style="background-color:#ffa500;">America</h1>
+<h1 style="background-color:#6a5acd;">Grecee</h1>
+
+</body>
+</html>
+
 
