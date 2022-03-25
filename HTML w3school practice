@@ -178,3 +178,39 @@ My Bonnie lies over the ocean.
 <p>hi opu</p>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h3	{color:red;
+	font-family:Cursive;
+    font-size:400%;
+    border:10px solid green;
+    padding:50px;
+    margin:5px;}
+
+
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+
+}
+p  {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+<h3>sakibul islam aupo</h3>
+
+</body>
+</html>
+
