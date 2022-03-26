@@ -232,3 +232,29 @@ p  {
 <p><a href="https://www.w3schools.com/html/html_links.asp"><img src="smiley.gif" alt"smile" style="width:1000px;height:1000px;"></a></p>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Button as a Links</h2>
+
+<p>Click the button to go to the HTML tutorial.</p>
+
+<button onclick="document.location='default.asp'">HTML Tutorial</button>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>
+<a href="https://www.w3schools.com/html/html_links.asp">w3schools</a>
+<p><button onclick="document.location='https://www.w3schools.com/html/html_links.asp'">w3school</button>
+</p>
+<p><button onclick="document.location='https://sebhastian.com/javascript-create-button/'">click me</button></p>
+</p>
+</body>
+</html>
