@@ -311,3 +311,40 @@ p  {
     </a>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+    	a
+        {color:orange;
+        background-color:black;
+        bordar:10px;
+        padding:2px;
+        margin:20px;
+        }
+    </style>
+</head>
+<body>
+<a href="#f7">go to file 7</a>
+<br>
+<a href="#f10">go to page 10</a>
+<h2>File 1</h2>
+<p>bla bla bla<p/>
+<h2>File 2</h2>
+<p>bla bla bla<p/>
+<h2>File 3</h2>
+<p>bla bla bla<p/>
+<h2>File 4</h2>
+<p>bla bla bla<p/>
+<h2>File 5</h2>
+<p>bla bla bla<p/>
+<h2>File 6</h2>
+<p>bla bla bla<p/>
+<br>
+<br>
+<h2 id="f7">File 7</h2>
+<h1 id="f10">file 10</h1>
+<p>jkdhfjidhf</P>
+<p>bla bla bla<p/>
+</body>
+</html>
