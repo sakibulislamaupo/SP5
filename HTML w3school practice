@@ -284,3 +284,30 @@ p  {
 </body>
 </html>
 
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style>
+		a:link,a:visited{
+        	color:black;
+            background-color:rgba(255,0,0,0.5);
+            padding:20px 20px;
+            margin:20px;
+            text-align:center;
+            display:inline-block;}
+       	a:active,a:hover{
+        	color:black;
+            background-color:yellow;
+            padding:20px 20px;
+            text-align:center;
+            display:inline-block;}
+	</style>
+</head>
+<body>
+<p>
+	<a href="https://elearn.daffodilvarsity.edu.bd/" target="_blank" title="daffodil Internatinal University">blc
+    </a>
+</body>
+</html>
