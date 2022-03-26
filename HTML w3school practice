@@ -258,3 +258,29 @@ p  {
 </p>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	a:link{color:blue;
+	background-color:rgba(55,55,55,0.2);}
+    a:visited{color:green;
+    backgrond-color:gray;}
+    a:active{color:red;
+    background-color:gray;}
+    a:hover{color:yellow;
+    background-color:gray;
+    text-decoration:underline;}
+    p{color:parple;
+    background-color:liteblue;}
+</style>
+</head>
+<body>
+<p>sakibul islam aupo, the one and only :p
+</p>
+<br><a href="https://elearn.daffodilvarsity.edu.bd/" target="_self" title="daffodil website">Click Me</a>
+</body>
+</html>
+
