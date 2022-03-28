@@ -390,3 +390,21 @@ A paragraph with a floating image. A paragraph with a floating image. A paragrap
 
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+</map>
+
+<img src="workplace.jpg" alt="a computer" usemap="#maping" width="400" height="380">
+<map name="maping">
+	<area shape="rect" coords="30,40,270,350" alt="computer" href="computer.htm">
+</map>
+</body>
+</html>
